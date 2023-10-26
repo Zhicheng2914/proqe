@@ -7,7 +7,7 @@
 已知DATA工作簿A列中存放的是对应料件名称，有以下两种内容
 [Bucket,Kickstand]
 已知DATA工作簿E列中存放的是对应料件Bin信息，有以下内容
-L1-a1,L1-a2,L1-a3,L1-a4,L2-a1,L2-a2,L2-a3,L2-a4,L3-a1,L3-a2,L3-a3,L3-a4,L4-a1,L4-a2,L4-a3,L4-a4,L5-a1,L5-a2,L5-a3,L5-a4
+[L1-a1,L1-a2,L1-a3,L1-a4,L2-a1,L2-a2,L2-a3,L2-a4,L3-a1,L3-a2,L3-a3,L3-a4,L4-a1,L4-a2,L4-a3,L4-a4,L5-a1,L5-a2,L5-a3,L5-a4]
 
 Bucket与Kickstand符合以下条件时可以视为可以匹配。
 1. Bucket的a值与Kickstand的a值差值不超过+/-0.15
